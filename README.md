@@ -3,7 +3,7 @@
 🎓 BCA Graduate
 📚 Currently pursuing MCA
 💻 Interested in Software Development
-☕ Currently learning Java & DSA
+☕ Currently learning Python & DSA
 🐍 Experience with Python & Django
 ☕ Knowledge of Core & Advanced Java
 🌱 Always learning and exploring new technologies
