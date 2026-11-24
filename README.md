@@ -31,8 +31,34 @@ I'm currently improving my programming and problem-solving skills by focusing on
 
 I'm currently working on improving my skills and building projects using Java, Python, Django, and DSA.
 
-<h3><b>📊 GitHub Stats</b></h3> <p> <img height="170" src="https://github-readme-stats.vercel.app/api?username=chaitanya-more18&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-more18&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-<h3><b>🔥 Contribution Streak</b></h3> <p> <img src="https://streak-stats.demolab.com?user=chaitanyamore18&theme=tokyonight&hide_border=true"/> </p>
-<h3><b>📫 Connect With Me</b></h3> <p> 📧 <b>Email:</b> chaitanyamore002@gmail.com </p> <p> 🐙 <b>GitHub:</b> <a href="https://github.com/chaitanya-more18">@chaitanya-more18</a> </p>
-<h3><b>🌱 My Goal</b></h3> <blockquote> <b>Keep learning, keep building, and keep growing.</b> </blockquote> <p> I'm currently exploring the tech field, improving my programming skills, and looking forward to discovering new opportunities in software development. </p>
-<h3 align="center"><b>⭐ Thanks for visiting my profile!</b></h3> <p align="center"> Feel free to explore my repositories and connect with me. 😊 </p>
+<h3><b>📊 GitHub Stats</b></h3>
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chaitanyamore18&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamore18&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h3><b>🔥 Contribution Streak</b></h3>
+<p>
+  <img src="https://streak-stats.demolab.com?user=chaitanyamore18&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h3><b>📫 Connect With Me</b></h3>
+<p>
+  📧 <b>Email:</b> chaitanyamore002@gmail.com
+</p>
+<p>
+  🐙 <b>GitHub:</b> <a href="https://github.com/chaitanyamore18">@chaitanyamore18</a>
+</p>
+
+<h3><b>🌱 My Goal</b></h3>
+<blockquote>
+  <b>Keep learning, keep building, and keep growing.</b>
+</blockquote>
+<p>
+  I'm currently exploring the tech field, improving my programming skills, and looking forward to discovering new opportunities in software development.
+</p>
+
+<h3 align="center"><b>⭐ Thanks for visiting my profile!</b></h3>
+<p align="center">
+  Feel free to explore my repositories and connect with me. 😊
+</p>
